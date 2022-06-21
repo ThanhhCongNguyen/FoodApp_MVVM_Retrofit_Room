@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodAppAPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_textview">HOME</string>
+    <string name="what_would_you_like_to_eat_textview">What would you like to eat?</string>
+    <string name="categories_text">Categories</string>
+    <string name="meal_name_text">Meal Name</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="categories_title">Categories</string>
+</resources>

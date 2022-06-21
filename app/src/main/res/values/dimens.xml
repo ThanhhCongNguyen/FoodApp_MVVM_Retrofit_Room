@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_small">4dp</dimen>
+    <dimen name="space_default">8dp</dimen>
+    <dimen name="space_extra">16dp</dimen>
+
+    <dimen name="radius_default">8dp</dimen>
+
+    <dimen name="size_of_text_view_default">14sp</dimen>
+    <dimen name="size_of_text_view_extra">20sp</dimen>
+</resources>
